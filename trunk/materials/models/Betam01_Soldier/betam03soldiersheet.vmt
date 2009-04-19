@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/Betam01_Soldier/betam03soldiersheet"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmapmask" "Models/Betam01_Soldier/betam00soldiersheet_mask"
+	"$selfillum" 1
+}
+
+
+
