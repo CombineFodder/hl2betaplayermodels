@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"Models/Betam01_Soldier/Betam00_elite"
+	"$envmap" "env_cubemap"	
+	"$bumpmap" "models/Betam01_Soldier/Betam00_elite_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "flesh"
+	"$envmapcontrast" 1
+	"$model" 1
+	"$selfillum" 1
+}
+
+
+

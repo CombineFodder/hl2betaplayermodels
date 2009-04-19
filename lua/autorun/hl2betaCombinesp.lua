@@ -1,0 +1,42 @@
+if (SERVER) then
+	player_manager.AddValidModel( "Combine Fodder", "models/Player/combine_fodder.mdl" ) 
+	player_manager.AddValidModel( "Combine Infantry", "models/player/combine_infantry.mdl" )  
+	player_manager.AddValidModel( "Combine Opad", "models/player/combine_opad.mdl" )  
+	player_manager.AddValidModel( "Combine Pilot", "models/player/combine_pilot.mdl" )  
+	player_manager.AddValidModel( "Combine Ranger", "models/player/combine_ranger.mdl" ) 
+	player_manager.AddValidModel( "Combine Shotgunner", "models/player/combine_shotgunner.mdl" ) 
+	player_manager.AddValidModel( "RTB Combine Prisongaurd2", "models/player/combine_soldier_pguard2.mdl" ) 
+	player_manager.AddValidModel( "Combine Urban1", "models/player/combine_urban1.mdl" ) 
+	player_manager.AddValidModel( "Combine Urban2", "models/player/combine_urban2.mdl" ) 
+	player_manager.AddValidModel( "Combine Trenchcoat", "models/player/combinetrenchcoat.mdl" ) 
+	player_manager.AddValidModel( "Consul", "models/player/consul.mdl" ) 
+	player_manager.AddValidModel( "Cremator", "models/player/cremator.mdl" ) 
+	player_manager.AddValidModel( "E3 Soldier", 
+"models/player/e3_soldier1.mdl" ) 
+	player_manager.AddValidModel( "E3 Assassin", "models/player/e3assassin.mdl" ) 
+	player_manager.AddValidModel( "E3 Combine Prisongaurd", "models/player/e3combine_pgaurd.mdl" ) 
+	player_manager.AddValidModel( "E3 Combine Shotgunner2", "models/player/e3combine_shotgunner2.mdl" ) 
+	player_manager.AddValidModel( "RTB Combine Sniper", "models/player/rtbcombine_sniper.mdl" )
+	AddCSLuaFile( "hl2betacombinesnp.lua" )
+end
+
+list.Set( "PlayerOptionsModel",  "Combine Fodder", "models/Player/combine_fodder.mdl" )
+list.Set( "PlayerOptionsModel",  "Combine Infantry", "models/Player/combine_infantry.mdl" )
+list.Set( "PlayerOptionsModel",  "Combine Opad", "models/player/combine_opad.mdl" )
+list.Set( "PlayerOptionsModel",  "Combine Pilot", "models/player/combine_pilot.mdl" )
+list.Set( "PlayerOptionsModel",  "Combine Ranger", "models/player/combine_ranger.mdl" )
+list.Set( "PlayerOptionsModel",  "Combine Shotgunner", "models/player/combine_shotgunner.mdl" )
+list.Set( "PlayerOptionsModel",  "RTB Combine Prisongaurd", "models/player/combine_soldier_pguard2.mdl" )
+list.Set( "PlayerOptionsModel",  "Combine Urban1", "models/player/combine_urban1.mdl" )
+list.Set( "PlayerOptionsModel",  "Combine Urban2", "models/player/combine_urban2.mdl" )
+list.Set( "PlayerOptionsModel",  "Combine Trenchcoat", "models/player/combinetrenchcoat.mdl" )
+list.Set( "PlayerOptionsModel",  "Consul", 
+"models/player/consul.mdl" )
+list.Set( "PlayerOptionsModel",  "Cremator", 
+"models/player/cremator.mdl" )
+list.Set( "PlayerOptionsModel",  "E3 Soldier", 
+"models/player/e3_soldier1.mdl" )
+list.Set( "PlayerOptionsModel",  "E3 Assassin", "models/player/e3assassin.mdl" )
+list.Set( "PlayerOptionsModel",  "E3 Combine Prisongaurd", "models/player/e3combine_pgaurd.mdl" )
+list.Set( "PlayerOptionsModel",  "E3 Combine Shotgunner", "models/player/e3combine_shotgunner2.mdl" )
+list.Set( "PlayerOptionsModel",  "RTB Combine Sniper", "models/player/rtbcombine_sniper.mdl" )

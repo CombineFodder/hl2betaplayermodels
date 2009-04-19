@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"HL2 Leak Player Pack"
+	"version"			"1"
+	"up_date"			"2/15/09"
+	"author_name"		"ShoTGuNGuY49"
+	"author_email"		"cmconard@ptd.net"
+	"author_url"		""
+	"info"				"Adds the HL2 Leak Payemodel Pack"
+}
