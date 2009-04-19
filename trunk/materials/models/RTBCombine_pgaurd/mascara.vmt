@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"  "Models/RTBCombine_pgaurd/mascara"
+	"$bumpmap" "Models/RTBCombine_pgaurd/mascaranormal"
+	"$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "flesh"
+	"$model" 1
+}
+
