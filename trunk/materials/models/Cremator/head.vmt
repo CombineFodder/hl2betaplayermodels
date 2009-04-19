@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\cremator/head"
+	"$translucent" 1
+	"VertexLitGeneric_DX9"
+	{
+		"$bumpmap" "models/cremator/head_normal"
+	}
+}

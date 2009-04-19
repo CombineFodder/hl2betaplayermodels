@@ -1,0 +1,18 @@
+// envmaptint_fix
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/Consul/breen_sheet"
+	"$envmap" 			""
+        "$bumpmap" "models/Consul/breen_sheet_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 0.7
+	"$envmapsaturation" 0.7
+	"$envmaptint" "[ .27 .27 .27 ]"
+        "$halflambert" 1
+	"$phong" "0"
+//	"$ambientocclusiontexture" "models/alyx/alyx_occlusion"
+	"$phongexponent" 30
+//	"$phongexponenttexture" "Models/Breen/breen_sheet_exp"
+	"$phongboost"	"05"
+	"$phongfresnelranges"	"[0.05 0.4 2]"
+}
