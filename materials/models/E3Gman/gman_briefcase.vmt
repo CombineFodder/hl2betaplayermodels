@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/e3gman/gman_briefcase"
+
+	"$bumpmap" "models/e3gman/gman_briefcase_normal"
+
+	"$halflambert" 1
+}

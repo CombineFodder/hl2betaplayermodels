@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/E3Metrocop/barneyface"
+	"$halflambert" 1
+	"$nodecal" "1"
+}

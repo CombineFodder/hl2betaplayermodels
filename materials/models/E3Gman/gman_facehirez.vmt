@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/e3gman/gman_facehirez"
+	"$bumpmap" "models/e3gman/gmanhirez_normal"
+	"$halflambert" 1
+}
+
