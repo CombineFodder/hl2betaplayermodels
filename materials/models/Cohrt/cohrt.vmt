@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/cohrt/cohrt"
+	"$envmapsphere" 1
+	"$halflambert" 1
+}
