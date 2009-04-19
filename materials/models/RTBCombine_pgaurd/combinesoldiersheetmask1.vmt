@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"  "Models/RTBCombine_pgaurd/combinesoldiersheetmask1"
+	"$envmap" "env_cubemap"	
+	"$envmapmask"   "Models/RTBCombine_pgaurd/combinesoldiersheet_mask"
+	"$envmapcontrast" 1
+	"$surfaceprop" "flesh"
+	"$selfillum" 1
+	"$model" 1
+}
+
