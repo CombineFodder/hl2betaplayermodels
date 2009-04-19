@@ -1,0 +1,15 @@
+
+"VertexLitGeneric"
+{
+	//"$basetexture" "Models/E3_CPElite/a"
+	"$basetexture" "Models/E3_CPElite/metrocop_elite"
+        "$bumpmap" "Models/E3_CPElite/metrocop_elite_normal"
+	"$envmap" 		"env_cubemap"
+	"$basealphaenvmapmask" 1
+	"$normalmapalphaenvmapmask" 1
+
+	//"$envmapcontrast" 0.7
+	//"$envmapsaturation" 0.7
+	//"$envmaptint" "[ .36 .36 .36 ]"
+}
+
