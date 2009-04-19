@@ -1,0 +1,24 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/e3Alyx/alyx_sheet"
+	"$bumpmap" "models/e3alyx/alyx_sheet_normal"
+	"$envmapmask" "models/e3Alyx/alyx_sheet_exponent"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.2 0.2 0.2]"
+	"$normalmapalphaenvmapmask" 1 
+	"$envmapsaturation" .5
+	"$envmapcontrast" .5
+	"$selfillum" ".5"
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+
+
+
+// -- From here down is new stuff which will only be applied if $phong is set to 1 --
+	"$phong" "1"
+	"$phongexponenttexture" "models/e3Alyx/alyx_sheet_exponent"
+	"$phongexponent" "55"
+	"$phongboost"	"4"
+	"$phongfresnelranges"	"[0.001 .4 1]"
+}
