@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/mossmn1/mossmn1_sheet"
+    	"$bumpmap" "models/mossmn1/mossmn1_normal"
+                "$halflambert" 1
+	"$phong" "1"
+	//rimlighting imo is a cartoon shader that fits best with tf2
+	"$phongtint" "[.65 .65 1]"
+	"$phongboost" ".1"
+	"$phongexponent" "2"									
+	"$phongfresnelranges"	"[.2 .6  1]"
+}
