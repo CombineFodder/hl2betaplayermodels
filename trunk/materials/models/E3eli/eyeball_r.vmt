@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models/E3eli/eyeball_r"
+	"$iris" "models/E3eli/pupil_r"
+	"$halflambert" 1
+}

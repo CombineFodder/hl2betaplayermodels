@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/E3eli/eli_tex4z"
+      "$bumpmap" "models/E3eli/eli_head_normal"
+}

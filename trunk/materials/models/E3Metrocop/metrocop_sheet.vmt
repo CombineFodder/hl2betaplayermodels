@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/E3Metrocop/metrocop_sheet"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+}
