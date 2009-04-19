@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	//not sure if this shit works
+	"$baseTexture" "Models/mossmn1/mossmn1_face"
+	"$bumpmap" "models/mossmn1/mossmn1_head_normal"
+	"$halflambert" 0
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" ".6"	
+	"$phongfresnelranges"	"[0.1 0.1 0.1]"
+}
