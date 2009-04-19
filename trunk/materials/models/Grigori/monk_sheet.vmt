@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Grigori/monk_sheet"
+	"$halflambert" 1
+}
