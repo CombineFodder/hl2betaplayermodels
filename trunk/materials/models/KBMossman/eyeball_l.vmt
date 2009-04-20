@@ -1,0 +1,7 @@
+"eyes"
+{
+	"$basetexture" "models/KBMossman/eyeball_l"
+	"$iris" "models/KBMossman/pupil_l"
+	"$halflambert" 1
+	"$nodecal" "1"
+}
