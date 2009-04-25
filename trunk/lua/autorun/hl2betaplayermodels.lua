@@ -27,7 +27,6 @@ player_manager.AddValidModel( "E3 Female 2", 				"models/player/beta/female_02.m
 player_manager.AddValidModel( "E3 Female 4", 				"models/player/beta/female_04.mdl" ) 
 player_manager.AddValidModel( "E3 Female 6",				"models/player/beta/female_06.mdl" ) 
 player_manager.AddValidModel( "E3 Male 2",					"models/player/beta/male_02.mdl" ) 
-player_manager.AddValidModel( "E3 Male 2",					"models/player/beta/male_02.mdl" ) 
 player_manager.AddValidModel( "E3 Male 4", 					"models/player/beta/male_04.mdl" ) 
 player_manager.AddValidModel( "E3 Male 5", 					"models/player/beta/e3male_05.mdl" )
 player_manager.AddValidModel( "E3 Female 1 2", 				"models/player/beta02/female_01.mdl" ) 
