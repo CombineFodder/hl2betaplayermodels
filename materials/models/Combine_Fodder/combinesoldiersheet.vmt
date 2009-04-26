@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"Models/Combine_Fodder/combinesoldiersheet"
+	"$bumpmap" "Models/combinesoldiersheet_normal"
+	"$envmap" "env_cubemap"	
+	"$envmapmask" "Models/combinesoldiersheet_mask"
+	"$envmapcontrast" 1
+	"$surfaceprop" "flesh"
+	"$selfillum" 1
+	"$model" 1
+	"$halflambert" "1"
+	"$phong" 1
+	"$phongboost" "3"
+	"$phongexponenttexture" "models/combinesoldiersheet_phong"
+                "$phongfresnelranges"	"[.1 .5 1.0]"
+}
