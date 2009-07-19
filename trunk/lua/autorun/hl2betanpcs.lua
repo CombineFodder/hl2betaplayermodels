@@ -24,10 +24,10 @@ list.Set( "NPC", "npc_cinfantry", NPC )
 
 local NPC = { 	Name = "Combine Opad", 
 				Class = "npc_combine_s",
-				Model = "models/combine_opadr.mdl",
+				Model = "models/combine_opad.mdl",
 				Category = Category	}
 
-list.Set( "NPC", "npc_coppad", NPC )
+list.Set( "NPC", "npc_copad", NPC )
 
 local NPC = { 	Name = "Combine Pilot", 
 				Class = "npc_combine_s",
@@ -64,7 +64,7 @@ local NPC = { 	Name = "Combine Soldier (Beta)",
 
 list.Set( "NPC", "npc_cbsoldier", NPC )
 
-local NPC = { 	Name = "Combine Prisonguard (Beta)", 
+local NPC = { 	Name = "Prisonguard (Beta)", 
 				Class = "npc_combine_s",
 				Model = "models/e3combine_pgaurd.mdl",
 				Category = Category	}
