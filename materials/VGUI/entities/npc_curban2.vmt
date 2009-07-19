@@ -1,6 +1,6 @@
 "UnlitGeneric" 
 { 
-	"$basetexture"		"vgui/entities/npc_urban2.vtf" 
+	"$basetexture"		"vgui/entities/npc_curban2.vtf" 
 	"$vertexcolor" 		1 
 	"$vertexalpha" 		1 
 	"$nolod" 			1 
