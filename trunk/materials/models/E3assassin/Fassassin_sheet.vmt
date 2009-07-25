@@ -1,7 +1,12 @@
 "VertexLitGeneric"
 {
-	"$baseTexture" "models\E3assassin/Fassassin_sheet"
+	"$baseTexture" "models\E3assassin/Fassassin_sheet2"
 	"$bumpmap" "models\E3assassin/Fassassin_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" "1"
+	"$model" 1
+	"$halflambert" "1"
+	"$phong" 1
+	"$phongboost" "3"
+	"$phongexponenttexture" "models/E3assassin/Fassassin_phong"
+                "$phongfresnelranges"	"[.1 .5 1.0]"
+	"$selfillum" 1
 }
