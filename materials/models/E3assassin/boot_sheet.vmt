@@ -2,6 +2,10 @@
 {
 	"$baseTexture" "models\E3assassin/boot_sheet"
 	"$bumpmap" "models\E3assassin/boot_normal"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" "1"
+	"$model" 1
+	"$halflambert" "1"
+	"$phong" 1
+	"$phongboost" "3"
+	"$phongexponenttexture" "models/E3assassin/Fassassin_phong"
+                "$phongfresnelranges"	"[.1 .5 1.0]"
 }
