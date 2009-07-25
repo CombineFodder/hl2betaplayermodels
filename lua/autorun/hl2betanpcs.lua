@@ -77,3 +77,10 @@ local NPC = { 	Name = "Shotgunner (Beta)",
 				Category = Category	}
 
 list.Set( "NPC", "npc_ce3sg2", NPC )
+
+local NPC = { 	Name = "E3 Assassin", 
+				Class = "npc_combine_s",
+				Model = "models/e3assassin.mdl",
+				Category = Category	}
+
+list.Set( "NPC", "npc_e3assassin", NPC )
