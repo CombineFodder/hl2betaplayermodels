@@ -1,4 +1,3 @@
-
 Category = "Combine"
 
 local NPC = { 	Name = "Combine Cremator", 
