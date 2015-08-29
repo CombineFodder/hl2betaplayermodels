@@ -1,0 +1,1 @@
+Adds HL2 Beta models as playermodels to Garry's Half-Life 2 Mod.
